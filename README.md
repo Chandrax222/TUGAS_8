@@ -1,2 +1,4 @@
 # TUGAS_8
-Shorthand_Property
+Pembuatan iframe untuk menampilkan halaman web tanpa harus membuka we…
+…b tersebut
+
